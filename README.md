@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Nest.js, PostgreSQL, Containerization**
  
-- 💬 Ask me about **Node.js, Backend, Javascript,Typescript, Linux, MongoDB, **
+- 💬 Ask me about Node.js, Backend, Javascript,Typescript, Linux, MongoDB
 
 - 📫 How to reach me **ahmedtawfik833@gmail.com**
 
