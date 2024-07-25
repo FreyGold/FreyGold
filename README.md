@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tawfik</h1>
 <h3 align="center">A passionate backend developer, who strive for learning everyday</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="freygold" /> </p>
-
 - 🌱 I’m currently learning **NestJs, PostgreSQL**
 
-- 💬 Ask me about **Javascript, Typescript, ExpressJs, Python, Data Structure**
+- 💬 Ask me about **Javascript, Typescript, ExpressJs**
 
 - 📫 How to reach me **ahmedtawfik833@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teslaleftarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teslaleftarm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
