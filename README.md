@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-- 🌱 I’m currently learning **Nest.js, PostgreSQL, Containerization**
+- 🌱 I’m currently learning **Prisma, Redis, Containerization**
  
 - 💬 Ask me about Node.js, Backend, Javascript,Typescript, Linux, MongoDB
 
