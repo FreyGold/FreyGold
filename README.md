@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Prisma, Redis, Containerization**
  
-- 💬 Ask me about Node.js, Backend, Javascript,Typescript, Linux, MongoDB
+- 💬 Ask me about Node.js, Typescript, Linux, MongoDB, Prisma
 
 - 📫 How to reach me **ahmedtawfik833@gmail.com**
 
