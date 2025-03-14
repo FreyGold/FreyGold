@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A back-end developer aspiring to be a software engineer, Striving for knowledge everyday</h2>
+<h2 align="center">A Fullstack developer aspiring to be a software engineer, Striving for knowledge everyday</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedHossam777"/> </p>
 
@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-- 🌱 I’m currently learning **Prisma, Redis, Containerization**
+- 🌱 I’m currently learning **React**
  
 - 💬 Ask me about Node.js, Typescript, Linux, MongoDB, Prisma
 
