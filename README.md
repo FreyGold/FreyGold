@@ -10,9 +10,9 @@
 
 <br clear="both">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Microservices**
  
-- 💬 Ask me about Node.js, Typescript, Linux, MongoDB, Prisma
+- 💬 Ask me about Node.js, Typescript, Linux, MongoDB, Prisma, React, Next
 
 - 📫 How to reach me **ahmedtawfik833@gmail.com**
 
