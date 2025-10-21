@@ -34,5 +34,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=freygold&show_icons=true&theme=dark&count_private=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=freygold&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=freygold&layout=compact&theme=dark" height="150" />
 </div>
