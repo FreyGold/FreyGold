@@ -8,9 +8,6 @@
 
 <h2 align="center">My Portfolio: https://tawfik.is-a.dev/</h1>
 
-
----
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,nodejs,expressjs,js,ts,nestjs,mongodb,postgres,docker&perline=6" />
