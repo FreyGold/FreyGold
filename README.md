@@ -6,8 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">Portfolio: https://tawfik.is-a.dev/</h1>
----
+<h2 align="center">Portfolio: https://tawfik.is-a.dev/</h1>
 
 <div align="center">
   <a href="mailto:ahmedtawfik833@gmail.com">
