@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-- Ask me about **Node.js, TypeScript, Linux, MongoDB, Prisma, React, Next.js**  
 - Reach me at **ahmedtawfik833@gmail.com**
 
 ---
