@@ -6,16 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h2 align="center">Portfolio: https://tawfik.is-a.dev/</h1>
+<h2 align="center">My Portfolio: https://tawfik.is-a.dev/</h1>
 
-<div align="center">
-  <a href="mailto:ahmedtawfik833@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/ahmed-tawfik-458353165/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</div>
 
 ---
 
