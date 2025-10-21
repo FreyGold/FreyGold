@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- Reach me at **ahmedtawfik833@gmail.com**
+[My Portfolio](https://tawfik.is-a.dev/)
 
 ---
 
