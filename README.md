@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <h1 align="center">Hi, I'm Ahmed Tawfik</h1>
 
 <h3 align="center">Fullstack Developer | Aspiring Software Engineer</h3>
 
-
 <h2 align="center">My Portfolio: https://tawfik.is-a.dev/</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
