@@ -3,7 +3,7 @@
 
 <h3 align="center">Fullstack Developer | Aspiring Software Engineer</h3>
 
-<h2 align="center">My Portfolio: https://tawfik.is-a.dev/</h1>
+<h2 align="center">https://tawfik.is-a.dev/</h1>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
