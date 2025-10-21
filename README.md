@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <h1 align="center">Hi, I'm Ahmed Tawfik</h1>
 
@@ -19,3 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=freygold&show_icons=true&theme=dark&count_private=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=freygold&theme=dark" height="150" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=freygold&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
