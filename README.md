@@ -32,28 +32,6 @@ I build frontend systems that are fast, maintainable, and actually scale — wit
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
----
-
-### Featured Projects
-
-**Admin Dashboard** &nbsp; `private`
-> Production-ready super admin dashboard with modular architecture, role-based auth, and React Query optimizations for real-time KPI monitoring.
-> `React` `React Query` `Ant Design` `REST APIs`
-
----
-
-**[DashStack — PDF Management Dashboard](https://animated-crumble-7e3d4f.netlify.app/en/login)** &nbsp; · &nbsp; [Repo](https://github.com/MohammedAmr04/dash-stack)
-> Bilingual document platform with secure file storage, real-time PDF preview, and dynamic short-link generation. Publicly deployed.
-> `Next.js` `Supabase` `React-PDF` `next-intl`
-
----
-
-**[Live Leaderboard API](https://github.com/freygold/live-leaderboard)**
-> Real-time leaderboard with sub-50ms score updates under concurrent load. JWT auth, cron-based resets, transaction-safe operations.
-> `Node.js` `TypeScript` `Express` `Redis` `Prisma`
-
----
-
 ### Stats
 
 <div align="center">
