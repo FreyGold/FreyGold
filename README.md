@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Ahmed Tawfik</h1>
   <p>Frontend Developer &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Next.js</p>
-  <p>📍 Menoufia, Egypt</p>
+  <p>📍Egypt</p>
 </div>
 
 ---
