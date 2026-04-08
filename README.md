@@ -32,10 +32,8 @@ I build frontend systems that are fast, maintainable, and actually scale — wit
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freygold&show_icons=true&theme=dark&count_private=true&hide_border=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=freygold&theme=dark&hide_border=true" height="150" />
 </div>
 
